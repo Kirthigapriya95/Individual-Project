@@ -17,12 +17,12 @@ This repository contains a single Python script (`Project1.py`) that performs tw
 
 1.  Clone the repository:
     ```bash
-    git clone [repository URL]
+    git clone [https://github.com/Kirthigapriya95/Individual-Project]
     ```
-    (Replace `[repository URL]` with the actual URL of your GitHub repository)
+   
 2.  Navigate to the repository directory:
     ```bash
-    cd [repository name]
+    cd [Inidvidual-Project]
     ```
 
 ## Running the Script
@@ -39,11 +39,11 @@ This repository contains a single Python script (`Project1.py`) that performs tw
 
 ## Author
 
-Kirthiga Priya Rajavel 
+Kirthiga Priya Rajavel(GitHub: Kirthigapriya95)
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License 
 
 ## Acknowledgement
 
