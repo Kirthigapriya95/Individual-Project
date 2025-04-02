@@ -48,4 +48,4 @@ This project is licensed under the MIT License
 ## Acknowledgement
 
 * This project was created as part of an assignment.
-* The analysis uses the Pandas library for data manipulation.n.
+* The analysis uses the Pandas library for data manipulation.
